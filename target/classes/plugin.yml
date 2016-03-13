@@ -1,0 +1,3 @@
+name: DailyParkour
+main: com.hilaryoi.plugin.dailyparkour.DailyParkourPlugin
+version: 0.1
